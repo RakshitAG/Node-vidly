@@ -1,0 +1,220 @@
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:04:20.049Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T09:04:20.093Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:06:47.403Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:06:47.448Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:07:39.194Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:07:39.237Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:08:16.193Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:08:16.235Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:09:40.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:09:40.683Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:09:53.971Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:09:54.012Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:12:58.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:12:58.396Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:16:17.724Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:16:17.771Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:17:03.092Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:17:03.152Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:18:28.926Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:18:28.965Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:19:04.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:19:04.149Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:21:25.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:21:25.690Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:21:55.063Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:21:55.109Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:23:00.883Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:23:00.925Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:23:34.190Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:23:34.230Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:24:15.914Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:27:22.772Z"}
+{"message":"Could not get the genres.","stack":"Error: Could not get the genres.\n    at Object.<anonymous>.router.get (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\routes\\genres.js:9:9)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at emitTwo (events.js:126:13)\n    at Server.emit (events.js:214:7)\n    at parserOnIncoming (_http_server.js:619:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)","level":"error","timestamp":"2020-04-16T09:27:22.838Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:27:22.908Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:30:28.752Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:30:28.792Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:32:49.867Z"}
+{"message":"Could not get the genres.","stack":"Error: Could not get the genres.\n    at Object.<anonymous>.router.get (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\routes\\genres.js:9:9)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at emitTwo (events.js:126:13)\n    at Server.emit (events.js:214:7)\n    at parserOnIncoming (_http_server.js:619:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)","level":"error","timestamp":"2020-04-16T09:32:49.926Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:32:49.999Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:35:39.194Z"}
+{"message":"Could not get the genres.","stack":"Error: Could not get the genres.\n    at Object.<anonymous>.router.get (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\routes\\genres.js:9:9)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at emitTwo (events.js:126:13)\n    at Server.emit (events.js:214:7)\n    at parserOnIncoming (_http_server.js:619:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:115:23)","level":"error","timestamp":"2020-04-16T09:35:39.251Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:35:39.322Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:37:31.403Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:37:31.492Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:43:44.743Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:43:44.832Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:47:06.185Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:47:06.272Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:50:23.826Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:50:23.913Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:56:32.442Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:56:32.532Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T09:57:43.710Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T09:57:43.801Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T10:00:34.929Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T10:00:35.021Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at model.Query.exec (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\query.js:4331:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\query.js:4423:15)\n    at process._tickCallback (internal/process/next_tick.js:188:7)","name":"CastError","stringValue":"\"1\"","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-04-16T10:00:35.117Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T10:06:54.221Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T10:06:54.266Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T10:11:01.905Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T10:11:01.987Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T10:13:52.599Z"}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly_tests..","timestamp":"2020-04-16T10:13:52.641Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at model.Query.exec (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\query.js:4331:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\query.js:4423:15)\n    at process._tickCallback (internal/process/next_tick.js:188:7)","name":"CastError","stringValue":"\"1\"","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-04-16T10:13:52.727Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T10:14:31.794Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T10:14:31.834Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T10:30:18.940Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T10:30:19.028Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T13:15:37.846Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T13:16:41.872Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T13:16:50.288Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T13:22:28.078Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T13:23:59.798Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T13:25:06.318Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T13:58:31.302Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T13:58:31.385Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T17:44:51.365Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T17:44:51.618Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T17:45:52.666Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T17:45:52.790Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T17:53:41.641Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T17:53:41.816Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T17:55:37.159Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T17:55:37.313Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:05:37.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:05:37.999Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:10:15.027Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:10:15.201Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:23:21.150Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:23:21.187Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:33:28.963Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:33:29.048Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:34:47.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:34:47.583Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:39:37.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:39:37.464Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at model.Query.exec (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\query.js:4331:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\query.js:4423:15)\n    at process._tickCallback (internal/process/next_tick.js:188:7)","name":"CastError","stringValue":"\"1\"","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-04-16T18:39:38.056Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at new CastError (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at model.Query.exec (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\query.js:4331:21)\n    at model.Query.Object.<anonymous>.Query.then (C:\\Users\\rakshit.agarwal\\node_projects\\vidly\\node_modules\\mongoose\\lib\\query.js:4423:15)\n    at process._tickCallback (internal/process/next_tick.js:188:7)","name":"CastError","stringValue":"\"1\"","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-04-16T18:39:38.110Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:43:20.840Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:43:20.863Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:44:37.953Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:44:37.977Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:46:58.603Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:46:58.755Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:46:58.741Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:46:58.772Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-16T18:47:28.839Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-16T18:47:28.912Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T05:43:05.680Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:43:05.752Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T05:44:00.709Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:44:00.821Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:44:03.465Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T05:46:52.159Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:46:52.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:46:53.168Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T05:48:50.655Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:48:50.778Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:48:51.836Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T05:51:16.258Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:51:16.327Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:51:16.591Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T05:58:49.460Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T05:58:49.502Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:00:04.829Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:00:04.871Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:00:14.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:00:14.415Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:01:43.891Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:01:44.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:01:45.081Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:02:51.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:02:51.614Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:03:07.740Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:03:07.817Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:04:04.908Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:04:04.981Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:04:05.602Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:04:05.658Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:09:29.798Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:09:29.869Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:09:30.771Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:13:00.907Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:13:00.982Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:13:01.854Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:13:01.938Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:29:18.143Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:29:18.183Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:29:19.373Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:29:19.426Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:30:09.742Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:30:09.813Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:30:10.132Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:30:10.209Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:31:54.098Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:31:54.191Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:31:54.416Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:31:54.447Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:34:32.510Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:34:32.577Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:34:32.964Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:34:33.045Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:36:11.859Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:36:11.945Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:36:13.038Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:36:13.127Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:45:32.496Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:45:32.561Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:45:32.787Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:45:32.860Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:46:32.964Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:46:32.989Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:46:33.154Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:46:33.185Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:47:24.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:47:24.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:47:24.403Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:47:24.432Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:56:37.919Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:56:38.008Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T06:56:38.936Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T06:56:39.006Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T07:12:04.949Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T07:12:05.006Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T07:12:05.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T07:12:05.682Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T12:46:28.811Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T12:46:28.858Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T12:46:29.884Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T12:46:29.920Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T12:51:53.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T12:51:53.693Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T12:51:54.683Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T12:51:54.776Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T12:59:51.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T12:59:51.374Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T12:59:51.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T12:59:52.038Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:10:45.805Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:10:45.849Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:10:46.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:10:46.418Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:34:29.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:34:29.565Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:34:30.008Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:34:30.144Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:37:06.196Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:37:06.229Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:37:06.359Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:37:06.405Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:38:30.224Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:38:30.308Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:38:30.450Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:38:30.476Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:41:45.451Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:41:45.525Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T13:41:46.476Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T13:41:46.570Z"}
+{"level":"info","message":"Listening on port 3000...","timestamp":"2020-04-17T14:09:50.549Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests..","timestamp":"2020-04-17T14:09:50.607Z"}
