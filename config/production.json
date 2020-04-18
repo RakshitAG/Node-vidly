@@ -1,1 +1,4 @@
-{}
+{
+  "jwtPrivateKey": "vidle_jwtPrivateKey",
+  "db": "vidly_db"
+}
